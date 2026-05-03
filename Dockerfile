@@ -32,3 +32,4 @@ COPY --from=builder /app/app .
 
 # Запускаем приложение
 CMD ["./app"]
+# Final version
